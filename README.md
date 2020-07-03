@@ -1,4 +1,4 @@
-# enos-ecosystem-demo
+# enos-alert-subscription
 
 ## Introduction
 This is a sample codes to demonstrate how to subscribe to an EnOS data subscription job. You need to use with enos-simple-device-mqtt sample codes.
